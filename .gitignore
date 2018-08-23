@@ -10,7 +10,8 @@
 /julia-*
 /source-dist.tmp
 /source-dist.tmp1
-
+.project
+.cproject
 *.exe
 *.dll
 *.dwo
